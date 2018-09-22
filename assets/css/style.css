@@ -1,0 +1,23 @@
+body{
+    margin: 0;
+}
+
+.main {
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-image: url(../img/e31f1f41e6fe07ca9faf413a879ce3c0_l.jpg);
+    position: relative;
+    height: 100vh;
+    text-align: center;
+    display: table;
+    width: 100%;
+    font-family: "Montserrat Alternates";
+    font-size: 66pt;
+    font-style: italic;
+    margin: 0;
+}
+
+.main p {
+    display: table-cell;
+    vertical-align: middle;
+}
